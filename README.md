@@ -1,3 +1,3 @@
 ## solidity_study
 
-#### some files practiced in solidity with remiix IDE
+#### some files practiced in solidity with remix IDE
